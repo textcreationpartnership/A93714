@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain weighty considerations humbly tendered and submitted to the consideration of such of the members of the High Court of Justice for tryal of the King, as they shall be presented unto. There being onely one hundred of the copies appointed to be printed for that purpose By Josuah Sprigge.</title>
+            <author>Sprigg, Joshua, 1618-1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93714</idno>
+            <idno type="STC">Wing S5071</idno>
+            <idno type="STC">Thomason E540_13</idno>
+            <idno type="STC">ESTC R203649</idno>
+            <idno type="EEBO-CITATION">99863526</idno>
+            <idno type="PROQUEST">99863526</idno>
+            <idno type="VID">115730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93714)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain weighty considerations humbly tendered and submitted to the consideration of such of the members of the High Court of Justice for tryal of the King, as they shall be presented unto. There being onely one hundred of the copies appointed to be printed for that purpose By Josuah Sprigge.</title>
+                  <author>Sprigg, Joshua, 1618-1684.</author>
+               </titleStmt>
+               <extent>8, 7-13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648 [i.e. 1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115730:1" rendition="simple:additions"/>
+            <p>Certain weighty CONSIDERATIONS <hi>Humbly tendered and ſubmitted TO THE</hi> Conſideration of ſuch of the Members of the High COURT of JUSTICE For Tryal of the KING, As they ſhall be Preſented unto.</p>
+            <p>There being onely One hundred of the Co<g ref="char:EOLhyphen"/>pies appointed to be Printed for that purpoſe</p>
+            <p>
+               <hi>By</hi> JOSUAH SPRIGGE.</p>
+            <p>
+               <hi>He hath ſhewed thee, ô Man, what is good; and what doth the Lord require of thee; but to do juſtly, to</hi> LOVE MERCY, <hi>and to walk humbly with thy God.</hi>
+            </p>
+            <p>Imprinted at <hi>London,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:115730:2"/>
+            <pb n="3" facs="tcp:115730:2"/>
+            <head>Certain weighty Conſiderations humbly tendered and ſubmitted to the Conſideration of ſuch of the Members of the High Court of Iuſtice for Tryal of the KING, As they ſhall be preſented <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch as I have appeared. In an Exhomation to tenderneſs of Blood <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Clauſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> before you; I think it my duty to give on what further grounds and authority I have for the ſame, which for modeſty's ſake I did the forbear in the audience, of Others that might make a wrong uſe of it, and that I might have the better accep<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ce with you in what I have to ſay, by preſenting it to your ſelves alone, who have peculiar Intereſt in it. For though you have heare what I have ſaid, yet you have not heard all I have to ſay which therefore I here bring forth to you, deſiring that the Father of Lights would ſo ſhine unto you, that what is of God here preſented ye may own it, may be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and made One with it, and may <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> principle, and may not be prevened in it by the Peoples aſſuming it
+<pb n="4" facs="tcp:115730:3"/>but that in this you may (goe before the People and may derive the light of it to the people, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thy of your place to do.</p>
+            <p>Firſt then, (not to meddle with your qualification as to an authority given you by man;) I do <hi>(Hypo<g ref="char:EOLhyphen"/>thetically)</hi> (and only ſo) acknowledg you to have the Cognizance of this Cauſe, and to have the right of deciding it; if that the Lord do ſet up himſelf in you, and bring forth himſelf in and by your judgment, that i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, If you be able to ſearch into, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y open the Root of all our Evil, the Root of thoſe Calamities brought upon this Na<g ref="char:EOLhyphen"/>tion by the Evil Inſtruments therein</p>
+            <p>This Root I have laid forth to you; and it is <hi>Babylon,</hi> the King of <hi>Babylon. Babylon</hi> is the ſtrange Land in which the Iſrael of God is Detained Cap<g ref="char:EOLhyphen"/>tive from the Lord and his preſence: and this Land is Our fleſh, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the dark ſtate of things wherein the Lord is hid, under which he is vayl'd and lies buried. For He is the breath of our no<g ref="char:EOLhyphen"/>ſtrils, and the blood in our Veins; By him Kings reign, and Princes decree Juſtice, &amp;c. and all forms of Government, and perſons o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Governors not in Union with Him (with the Spirit of Juſtice and righteouſneſs as 'tis in him) are vain Idols, having Eys but ſee not, and Hands, but can doe nothing that is truly excellent and glorious.</p>
+            <p>The King of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Babylon,</hi> Is the glory of our fleſh, the goodlineſs of it, <hi>Iſa.</hi> 40. Which makes us put Confidence in it, we trim and dreſſe up our own way, our own fleſh, and fleſhly forms, and cloath them with names of God, and Judges, but theſe
+<pb n="5" facs="tcp:115730:3"/>being deſtitute of the Spirit and power of God, and righteouſneſs, become to us as broken pitchers.</p>
+            <p>Now <hi>Babylon</hi> is a myſtery, <hi>Rev.</hi> 17 5. the Mother of Harlots and abominations of the Earth. I finde in Scripture two deſcriptions or names of Anti<g ref="char:EOLhyphen"/>chriſt: He is cal'd, The Man of Sin; All other wickedneſs is but the weakneſs, and may be eaſier Convinced and dealt withall. But Antichriſt is the Man of Sin, and hath gotten into the Temple of God, into lawfull powers and adminiſtrations; and thence is the riſe of our preſent miſeries. It hath not been as the Murther Committed by a Thief on the high-way, for Lucre-ſake, or of an Enemy upon a private grudge, that hath none o<g ref="char:EOLhyphen"/>ther but ſuch baſe pretences of Covetouſneſs or Revenge for it ſelf; but here hath been power a<g ref="char:EOLhyphen"/>gainſt power. One lawful power exerciſing it ſelf againſt another lawfull power, through the deceit of this Man of Sin, that hath broken off the power and authority of the King from the End of it, which is the good of his people in truth, which is the Law and Compaſs that ſhould regulate it, and this hath been through that darkneſſe whereby Satan hath blinded his eyes that he could not ſee his own glory and greatneſs to ly in, and to be up<g ref="char:EOLhyphen"/>held by the flouriſhing and happy Condition of his People.</p>
+            <p>And ſecondly, Antichriſt is call'd, The Mother of Harlots; all Other wickedneſſes are but the Daughters, <hi>Babylon</hi> is the Mother, and this Mother is a Myſtery, its hard lighting on her; Indeed, none
+<pb n="6" facs="tcp:115730:4"/>Can ſearch her out, and deal with her but the Lord; and therefore it is ſaid, He ſhall Conſume Antichriſt with the Spirit of his Mouth, and the brightneſs of his Coming.</p>
+            <p>Now if the Lord be Come in this brightneſs to deſtroy Antichriſt by you, I am ſure He will firſt deſtroy it in you; and if ſo, then: beleeve we ſhall ſee you (I am ſure I muſt) judg your ſelve: firſt of thoſe things for which ye Condemn your Priſoner: and that indeed might lay the founda<g ref="char:EOLhyphen"/>tion of a ſweet and holy proceeding, and a happy Concluſion of this Tryall. This, if any thing would melt the King, and both He and you would as <hi>Jacobs</hi> ſons fall on the neck of <hi>Ioſeph</hi> the Lord Jeſus whom ye have ſold; nay whom ye have cruci<g ref="char:EOLhyphen"/>fied One aſwell as th'other, though your crimes may admitt of graduall difference: For have not wee through that poor dark ſelfiſh ſpirit, divided our ſelves and our good, from the good and great<g ref="char:EOLhyphen"/>neſſe of the King; Have not we been that to him, that he hath been to us? Have we not borne him and his greatneſſe as a burthen that we would be glad of an occaſion to caſt off? I do not ſay but we have liberties, and we may ſtand for out liberties. Babylon were not a myſtery, if it did not get into intereſts and wayes that are righteous in them<g ref="char:EOLhyphen"/>ſelves, but whether were not theſe rights and inte<g ref="char:EOLhyphen"/>reſts of the people pleaded and managed in the dark, aſwell as was the prerogative of the King through which darkneſſe the Conſiſtency of the Kings greatneſſe with the peoples freedom and the amia<g ref="char:EOLhyphen"/>ble reflection that theſe mutually Caſt one upon the
+<pb n="8" facs="tcp:115730:4"/>other, and the joy they take one in another was not ſeen, and ſo ye oppoſed your ſelves one to another in the dark <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeeking to ſwallow up the other into it ſelf, which were made not to thrive, but in u<g ref="char:EOLhyphen"/>nion together.</p>
+            <p>And the Root of all this diſowning and incom<g ref="char:EOLhyphen"/>plyance with one another, is for that we have not held the head, from whom the whole body being knit together by joynes and bands, hath nou<g ref="char:EOLhyphen"/>riſhment miniſtred, and increaſeth with the in<g ref="char:EOLhyphen"/>creaſings of God; which head is the Lord: But our union hath not been in him but in weak com<g ref="char:EOLhyphen"/>pacts of our own: we have not ſeen our ſelves, King and People ſpringing up from one root, and iſſuing from one fountain, even the Lord; that we are his image and glory in all this variety and ſubordination of States; and that all theſe are not ſo in themſelves; but that they are in each other as they are all in unity in their Original.</p>
+            <p>For certainly, whatever unlikelihood and diſ<g ref="char:EOLhyphen"/>appearance of this there is in what we have known of theſe ſubordinations, as they have ſubſiſted and acted in this dark, corrupt and fleſhly ſtate; yet I have ſo much faith to beleeve; yea in the light of the thing I ſee it in God, That King and People do ſubſiſt and have a glorious intereſt in each other: and that it ſhall appear when the Crea<g ref="char:EOLhyphen"/>tion that is now in pain is delivered, that all the Majeſty that dwels in the perſon of a King, it is indeed the Peoples; and all the peace and flou<g ref="char:EOLhyphen"/>riſhing
+<pb n="8" facs="tcp:115730:5"/>of a People, it is the Kings, and they ſhall poſſeſſe, and be poſſeſſed each of other. The King ſhall not have an envious eye againſt his people nor the people againſt the King; each ſhall be ſa<g ref="char:EOLhyphen"/>tisfied with their own, and each ſhall rejoyce in the others wealth. The people ſhall caſt glory upon their King, and Kings ſhall throw love and riches upon their People, and each ſhall think, while the other hath it, himſelf hath it, and that they have not the leſſe for the others having much. Thus it is between the Lord and his Chriſt, thus it is between Chriſt and his Church; and thus ſhall it be be<g ref="char:EOLhyphen"/>tween Kings and their People. We have ſeen and converſ'd with theſe Relations only in their weak<g ref="char:EOLhyphen"/>neſs, and ſo cannot beleeve this of them: But the Lord hath a portion in theſe things, He made them not in vain, they ſhall be reſtored. The Creature (yea, this Creature Magiſtracy or Polity) ſhall be delivered into the glorious liberty of the ſons of God; and ſure the day of its Redemption draws nigh.</p>
+            <p>For the Lord hath thrown it into the Furnace, and the flames are hot about it. Fire hath come out of <hi>Abimelech,</hi> to conſume the men of <hi>Sechem;</hi> and fire is <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> out of <hi>Sechem</hi> to deſtroy <hi>Abimelech.</hi> And under this notion, I confeſſe, do I look upon this Tryall of the King: and ſo I can freely acknow<g ref="char:EOLhyphen"/>ledge as the righteous Award and Judgement of the Lord, under whoſe mighty hand we have ſuf<g ref="char:EOLhyphen"/>fered all theſe Wars. For who gave Jacob to the ſpoil, and Iſrael to the robbers? did not the Lord, againſt whom they had ſinned?</p>
+            <p>
+               <pb n="7" facs="tcp:115730:5"/>But the end of the Lords judging is purifying. not de<g ref="char:EOLhyphen"/>ſtroying, and if the Lord have pleaſure in you; He may make you not only Tormentors, but Judges; he may bring you forth to act in the light, and to be Inſtruments in the hand of God, of that judgement upon the King that ſhall be ſaving even to pull him as a firebrand out of the fire of Ty<g ref="char:EOLhyphen"/>ranny over his people, which hath throwen him into this fire of the wrath of his people. For a Judge is not ſuffici<g ref="char:EOLhyphen"/>ently accompliſht and inſtructed for his Office if he have not a power to releaſe as well as to condemne, to ſave as well as to deſtroy, as <hi>Pilate</hi> could ſay to our Saviour, Have not I power to Crucifie thee; and power to releaſe thee? Other<g ref="char:EOLhyphen"/>wiſe ye anſwer not your Originall patterne the Lord who where there are two parts, as fleſh and ſpirit proceeds with that diſtinction, as that while his left hand brings deſtruction to the fleſh, his right hand carries ſalvation to the ſpirit. And if the day of the Lord be riſen upon you and he have made you able to judge and diſcerne the hidden principles of things, ye will exerciſe this diſcret<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on between the lawfull Authority inveſted in the Perſon of the King and his unlaw<g ref="char:EOLhyphen"/>full uſurpation; ye will damne this and ſave the other bring<g ref="char:EOLhyphen"/>ing it forth from all its droſſe and fleſh (that hath made it not onely unprofitable but hurtfull) as a veſſell for the finer, So ſhall ye be Repairers of our breaches indeed and Reſtorers of paths to dwell in: And if ye doe this, the Sword whereby ye muſt doe it is the Sword of Chriſts mouth; The Spirit of the Lord: If this Spirit have brought forth the Perſon of our Lord Jeſus in you, who is the true pattern of Government, and of all things doe ye bring forth this pattern in your judgement; Arraigne the King not at the barr of man, but at the tribunall of Jeſus Chriſt; ſhew (for who but a King can judge a King?) what the Spirit and the Government of Chriſt in union with Man is, and compare the King and
+<pb n="8" facs="tcp:115730:6"/>his government by this patterne in the mount, and ſhew him his failings his narrowneſſe of Spirit and principle not com<g ref="char:EOLhyphen"/>prehending his people in himſelfe as Chriſt does, not living in their wealth and proſperity as his owne as Chriſt does, not bearing wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h their weakneſſes as Chriſt does, not empty<g ref="char:EOLhyphen"/>ing himſelfe to make them rich and happy as Chriſt does, and ſave the King a labour of recriminating you; confeſſe to him you have beene in the darke too, and not ſeeing the perſon a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d majeſty of the Lord in him, ye have not been in ſuch a naturall and affectionate complyance with his honour and grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>neſſe as the Memb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs are with the Head: But if ye are not able ſo to deale wi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h him. Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n turne him over to thoſe that can and to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he juſtice and mercy of the Nation and heare what that will ſpeake for him. And in behalfe of the life of the King we alleadge.</p>
+            <p>That this warr that h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th been upon us was by the judge<g ref="char:EOLhyphen"/>ment of the Lord, the Lord did bid the Sword devour and Eate fleſh: A Kingdome is not ſo eaſily, nor ordinarily ſet on flame by Civill Waris without the ſpeciall hand of God, the Cauſes are long a working, and the matter was long a gathering: If the Lord had not ſent an evill Spirit univer<g ref="char:EOLhyphen"/>ſally among us, it was not the Exorbitancy of the will of one man, as ye ſay the King is that could have throwen us in<g ref="char:EOLhyphen"/>to theſe fl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes; The Lord uſed the King as an Inſtrument of his wrath towards us, and us as Inſtruments to powre wrath upon him.</p>
+            <p n="2">2 That in the procuring this wrath, had our ſhare with the King, wee was overcome of this evill; Hee could have brought no evill upon us, had not we had it in us. Vnder the weight of our fleſh aſwell as his own, did his Government groan and bow down: the Kingdome and its policy (nei<g ref="char:EOLhyphen"/>ther King nor People) ſtood in the Lord, in that Union and glory in Spirit, and ſo fell and withered was gathered and burnt.</p>
+            <p>
+               <pb n="9" facs="tcp:115730:6"/>Therefore now it concerns both him and us to humble our ſelves under the mighty hand of God, till he exalt us in his due time, and not to ſeek ſatisfaction on one another, other then by being examples to each other of a better carriage grounded on a better principle and union for the future: If we will doe juſtice (as indeed we muſt) and take revenge, it muſt be on that King of <hi>Babylon,</hi> that dark deviding principle that is in both ſides, that devided us firſt f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om God our root, and then from one another in ſubordination to the Lord. And we ought not to do any other juſtice upon him then we ſhall ſubmit to be done by him upon us: (which is onely the juſt and equal ſettling of our diſtinct Intereſts) we being both in the tranſgreſſion that cauſed the war meritoriouſly, for as for the immediate acting of it; I look upon it rather as the judgement of God upon our ſin, then the ſin it ſelf which went long before.</p>
+            <p n="3">3 That the King being ſuppoſed in the Law, to be an In<g ref="char:EOLhyphen"/>fant, and to act alwayes by his Inſtruments and Officers of State, both in judging what is right and wrong, and in exe<g ref="char:EOLhyphen"/>cuting, if inquiſition be made for the acting this war upon the People, it ſeems much more equall to be made among thoſe his evill Counſellours and Inſtruments, without whom he could have decreed nothing as Right or Law, nor have exe<g ref="char:EOLhyphen"/>cuted any purpoſe of war in his heart, for his ſuppoſed rights. And if by the liberty of Conferring honour and greatneſſe on Subjects, he hath been enabled to have ſuch powerfull influence on them, as to create evill Inſtruments for any pur<g ref="char:EOLhyphen"/>poſe, that power may be conſidered and depoſited in ſafer cuſtodie till the kingdom ſhall find their Princes worthy of it.</p>
+            <p n="4">4 Not onely did his Judges and Privie Counſellors, and evill Inſtruments about him, that were not of either Houſe Parliament, but alſo divers Lords and Members of both Houſes of Parliament concur to the betraying of the Kings
+<pb n="10" facs="tcp:115730:7"/>Conſcience, to the leavying and proſecuting the warre; and if it was not the mercy of God to him to enable him to di<g ref="char:EOLhyphen"/>ſtinguiſh between theſe evill Counſellours, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe that diſſented, He is the object of pitty in himſelfe, as he was th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reby the Actor of our miſery.</p>
+            <p n="5">5. To execute the King for what he did in proſecuion of the War, ſo undertaken, wherein he h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>zarded his Perſon, and put his Cauſe to the deciſion of bat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell, and eſpecially in a Treaty, and after ſo many invitations to a compoſure, is to ſhed the blood of War in Peace (which is condemned by an authen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick pen in the like caſe, though the manner of the ex<g ref="char:EOLhyphen"/>ecution vary) and ſeems no way conſiſtent with the honour of the Faith of the Nation, that was g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven him in ſeverall Treaties.</p>
+            <p n="9">9 That he being a Priſoner of warre, and wholly in our power to regulate the exerciſe of his prerogative as may make it wholſom to the Nation: we are upon all the advan<g ref="char:EOLhyphen"/>tage that may be deſired, to ſhew generoſity, and it ſeems both unſouldierly and unmanly not to be able to give him h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s life at leaſt, and a diſtruſting of God, (who if he ſhall de<g ref="char:EOLhyphen"/>ſpiſe this goodnes of the Lord towards him) can goe beyond him again wherein he ſhall deal proudly.</p>
+            <p n="7">7 All the power of Arms being now in the hands of that party in the Kingdome, that are commonly reputed more fa<g ref="char:EOLhyphen"/>mous for their Religion and tenderneſſe: O let him not be cryed down by you! who ſhould be able to bring forth the mercy of the great God to ſinners, if not you that have found mercy? Let not your way wherin you walke in a difference from the more careleſſe ſort of profeſſor be written to ge<g ref="char:EOLhyphen"/>nerations in this bloody Letter. To this I ſhall adde that if God have appeared yet, and come forth to you, no other<g ref="char:EOLhyphen"/>wiſe then as upon <hi>Mount Sina;</hi> there are ſome ſtanding and walking amongſt you daily, that have ſeen him upon <hi>Mount
+<pb n="11" facs="tcp:115730:7"/>Sion,</hi> and have found ſuch mercy, that they are able to ſhew as great mercy as this, that is now askt for the King: and if you have it not; you muſt give them leave to ſay, That might their Votes be heard, No man ſhould fall in <hi>Iſrael</hi> this day; for doe we not now know that the Lord Jeſus hath obtained the Kingdome this day in their hearts, and is bring<g ref="char:EOLhyphen"/>ing forth his new Heavens and his new Earth, wherein righ<g ref="char:EOLhyphen"/>teouſneſſe ſhall dwell; yea, they ſee his footſteps taking hold of the world, to ſet up a new Adminiſtration of Juſtice and every thing, for with the ſword of his mouth <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill he ſlay the wicked: he is ſo comming in his People, as ſhall cloath them with terrour to their enemies, that they ſhall not need the Sword of man to defend them, but the majeſtie and brightneſſe of the Lord cloa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing their Perſons, ſhall judge and reprove the world ei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her into love and union with them, or in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſubjection under them. To this adminiſtration that is holy, pure, and gracious, and not in letter, but in ſpirit, not in forme but in power; have all former dark and earthly ad<g ref="char:EOLhyphen"/>miniſtrations hitherto ſerved, and till th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s we groan and are afflicted under the manifold and wofull miſcarriages of all Adminiſtrators in the dark, and in the letter onely. And in the in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ereſt of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he glory of this Image and appearance of God to be made forth among men in this firſt handſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of ſaving the King (as well) as out of tend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rneſſe to <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he juſtice of the thing doe I plead thus:</p>
+            <p>I have not ſpoken all this as forgetting or unſenſible of the great and high provocations of the King, in the late horrid War, as well as his former miſcarriages in Govern<g ref="char:EOLhyphen"/>ment, if the Lord intend mercy to his ſoule, He will accuſe and judge himſelf more then I can or is meet to detain you by: and the world ſhall hear of his unfaigned ſorrow and repentance, as it hath been fild with the ſtory of his ſins; but this I know through the Lords mercy, and confeſſe I am one
+<pb n="12" facs="tcp:115730:8"/>with him (that is my fleſh is) in al the wickednes he hath done: and out of my own heart muſt I coppy forth my accuſation againſt him, and ſo let every one think that judges another.</p>
+            <p n="1">1 If it be objected this plea may be againſt all Execution of juſtice though for the horridſt facts as murther &amp;c.</p>
+            <p>I anſwer no, the Caſe is farre different between the Ex<g ref="char:EOLhyphen"/>erciſe of an unlawfull act by no authority, as in the caſe of Theeves and murderers by the high way, and the abuſe of a lawfull authority as the King did in his miſdeeds. This lat<g ref="char:EOLhyphen"/>ter Crime is aggravated towards God, but not ſo lyable to the ſtroake of man. Or if a divorſe may be made between that perſon and the exerciſe of that authority he hath ſo a<g ref="char:EOLhyphen"/>buſed (which I leave to others to judge) its not ſo clear that it ſhould be expiated with the loſſe of life, becauſe the per<g ref="char:EOLhyphen"/>ſon offended not, but the King, and not the King, but his inſtruments. I ſpeak not as to the Lord.</p>
+            <p n="2">2 If it be objected, that blood is required by the law of God for blood; I anſwer, firſt, for blood ſhed in war we finde no account exacted in the caſe of <hi>Abner,</hi> 2 <hi>Sam.</hi> 3. but <hi>Abners</hi> blood avenged on <hi>Joah</hi> by <hi>Davids</hi> appointment af<g ref="char:EOLhyphen"/>ter <hi>Solomon</hi> had the Kingdome.</p>
+            <p n="2">2 Nor for bloodſhed in Peace is there an indiſpenſable neceſſitie of making expiation by blood: for though I am not of their minde, that think it not lawfull or Chriſtian like, to ſhed blood in any Caſe, for any Crime; yet I think it not to be indiſpenſably charged upon the maigſtrate, to ſhed blood for blood, but there may be divers cauſes to over rule it: The execution of Juſtice being for the Comonwealth, and not the Common-wealth for the execution of Juſtice, and there<g ref="char:EOLhyphen"/>fore the Magiſtrate hath power to ſave and remit capitall Crimes as well as to puniſh them, when it is for the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+            <p>Nay thirdly, I conceive that whenſoever blood may be
+<pb n="13" facs="tcp:115730:8"/>ſpared, that is, thoſe evils may be avoided, and thoſe advan<g ref="char:EOLhyphen"/>tages obtained without ſhedding of blood, it ought to be ſpa<g ref="char:EOLhyphen"/>red: And that the Kingdome cannot be ſettled, and the like miſchiefes prevented (ſo farre as in man) for the future with<g ref="char:EOLhyphen"/>out ſhedding of the Kings blood doth not appear to me, nor I dare ſay to many more, as the probability of as great evils to enſue from home, from abroad (which God prevent) by taking away the Kings life, able to ballance the ſecurity we promiſe our ſelves thereby is evident to all men: Therefore pollicie cals not for this piece of Juſtice. And for that con<g ref="char:EOLhyphen"/>ceit of a Sacrifice to God it is legall and Jewiſh, having no<g ref="char:EOLhyphen"/>thing in it of the light and grace of the Goſpel, much leſſe ſuitable to the elevation of theſe times, its to deny the ſacri<g ref="char:EOLhyphen"/>fice of Chriſt; then which there is no other but the ſacrifice of praiſe and of a broken and contrite Spirit, which is alſo his.</p>
+            <p>
+               <hi>May wee beg the life of the King, wee may be thought to run a great hazard, ſhould he come again to be a ſcourge to the King<g ref="char:EOLhyphen"/>dome, but the love of God that comes forth in us to ſave him will provide better things in him. Wee have travaild of him once alrea<g ref="char:EOLhyphen"/>dy by our Prayers, it may be we muſt travaile of him a ſecond time, Wee are content.</hi>
+            </p>
+            <p>He that is without ſin, let him throw the firſt ſtone.</p>
+            <trailer>Finis.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
